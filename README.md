@@ -1,2 +1,2 @@
 # OntoElect
-Public Code for OntoElect instrumental software
+Public Code for OntoElect instrumental software; also includes experimental results 
